@@ -61,11 +61,3 @@ npm start
 4. Select a sorting algorithm from the dropdown menu.
 
 5. Click the "Sort" button to visualize the sorting process.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
