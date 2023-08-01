@@ -1,0 +1,41 @@
+:root {
+  --swatch-foundation: #6B728E; 
+}
+
+body {
+  background-color: var(--swatch-foundation);
+}
+
+.App {
+  background-color: #404258;
+  text-align: center;
+}
+
+.toolbar {
+  background-color: #50577A;
+  border-radius: 10px;
+  padding: 3px;
+  width: 40%;
+  position: absolute;
+  left: 50%; /* Center the line on the horizontal axis */
+  bottom: 25%; /* Position the line in the lower-middle part of the screen */
+  transform: translate(-50%, 50%); /* Center the line horizontally and vertically */
+}
+
+.line {
+  width: 50%;
+  height: 3px; 
+  background-color: #000; 
+  position: absolute;
+  left: 50%; /* Center the line on the horizontal axis */
+  bottom: 35%; /* Position the line in the lower-middle part of the screen */
+  transform: translate(-50%, 50%); /* Center the line horizontally and vertically */
+}
+
+.barsarray {
+  display: 'flex';
+  position: absolute;
+  left: 50%; /* Center the line on the horizontal axis */
+  bottom: 50%; /* Position the line in the lower-middle part of the screen */
+  transform: translate(-50%, 50%); /* Center the line horizontally and vertically */
+}
