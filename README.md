@@ -8,8 +8,6 @@ This is a simple web application built using React that allows you to visualize 
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
